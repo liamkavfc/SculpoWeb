@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eeju2+agUgPK4lETKkln0rch8tbI50aGZrTE3xWa9Hg=",
+  "Hash": "1o66iUks5vrzf16F3pRaQccuN/1kmMfIdkJSSKBMAGg=",
   "Source": "SculpoWeb",
   "BasePath": "/",
   "Mode": "Root",
@@ -7206,6 +7206,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/ProfilePage.png"
+    },
+    {
+      "Identity": "/Volumes/LiamKenny/LK Website Development/SculpoWeb/SculpoWeb/wwwroot/images/WebsiteGraphic-NoCircle.png",
+      "SourceId": "SculpoWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Volumes/LiamKenny/LK Website Development/SculpoWeb/SculpoWeb/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "images/WebsiteGraphic-NoCircle.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/WebsiteGraphic-NoCircle.png"
     },
     {
       "Identity": "/Volumes/LiamKenny/LK Website Development/SculpoWeb/SculpoWeb/wwwroot/images/WebsiteGraphic.png",

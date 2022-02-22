@@ -196,13 +196,13 @@
       "mscorlib.dll": "sha256-+5VU+MYaTQMTlRe9QKobEjWZWv6I9teAGdNndWSBqWE=",
       "netstandard.dll": "sha256-E5RFhGIaDH5QM6BEbFUuHU8U9wP6N6jbo5MCttzLOCM=",
       "System.Private.CoreLib.dll": "sha256-9NtEbYixyog7vUmeYXyyqzfBXUYl8wxoVQ26Ji7sNRg=",
-      "SculpoWeb.dll": "sha256-gLQwJPplLPD1SFKxpEsOdhXRF7KkoAkJuuhq+oE8UOc="
+      "SculpoWeb.dll": "sha256-eIiqWLoIx9hWxiWfaIDeUEa+B\/d0Ie\/0hsAKQ7IwBBA="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "SculpoWeb.pdb": "sha256-pV3nNorIptIK68P\/7Q4WmrGX0nNExuiXWbnE6Xx9mPo="
+      "SculpoWeb.pdb": "sha256-lFuYaYR7MnUuNo7vQJ2J1W200gJdzKtiE2qYZLJ7PQI="
     },
     "runtime": {
       "dotnet.6.0.1.ibznugkzhp.js": "sha256-awQsJ\/WxYhouHPuE+i3eJqjA4XClQlr2rD6nKvW80ww=",

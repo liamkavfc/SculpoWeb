@@ -814,3 +814,4 @@
 /Volumes/LiamKenny/LK Website Development/SculpoWeb/SculpoWeb/obj/Debug/net6.0/ref/SculpoWeb.dll
 /Volumes/LiamKenny/LK Website Development/SculpoWeb/SculpoWeb/obj/Debug/net6.0/SculpoWeb.pdb
 /Volumes/LiamKenny/LK Website Development/SculpoWeb/SculpoWeb/obj/Debug/net6.0/scopedcss/Component/Header.razor.rz.scp.css
+/Volumes/LiamKenny/LK Website Development/SculpoWeb/SculpoWeb/obj/Debug/net6.0/scopedcss/Pages/AboutUs.razor.rz.scp.css

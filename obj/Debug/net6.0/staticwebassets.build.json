@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gQWgyI84e1ijnQJkSt3a+3ukYcsAIp5IRtnMahTHSqs=",
+  "Hash": "yuPLJ9cxmboqiyhZrIn6klx+YrEuyRrGZCxC9u1aU7Q=",
   "Source": "SculpoWeb",
   "BasePath": "/",
   "Mode": "Root",
@@ -7155,6 +7155,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/headerlogo.jpg"
+    },
+    {
+      "Identity": "/Volumes/LiamKenny/LK Website Development/SculpoWeb/SculpoWeb/wwwroot/images/headerlogo.png",
+      "SourceId": "SculpoWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Volumes/LiamKenny/LK Website Development/SculpoWeb/SculpoWeb/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "images/headerlogo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/headerlogo.png"
     },
     {
       "Identity": "/Volumes/LiamKenny/LK Website Development/SculpoWeb/SculpoWeb/wwwroot/images/logo.JPG",

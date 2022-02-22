@@ -1,0 +1,81 @@
+@namespace SculpoWeb.Component.Partners
+
+<!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://live.us14.list-manage.com/subscribe/post?u=ba5b659e4a412fca9e0968e24&amp;id=740a957c3c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<h2>Register your interest as a Partner...</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+	@* <label for="mce-MMERGE7">Partner or Client </label> *@
+	<select name="MMERGE7" class="" id="mce-MMERGE7">
+	@* <option value=""></option> *@
+	<option value="Partner" selected="">Partner</option>
+@* <option value="Client">Client</option> *@
+
+	</select>
+</div>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+	<label for="mce-NAME">Name </label>
+	<input type="text" value="" name="NAME" class="" id="mce-NAME">
+</div>
+<div class="mc-field-group">
+	<label for="mce-MMERGE3">Age Range </label>
+	<select name="MMERGE3" class="" id="mce-MMERGE3">
+	<option value=""></option>
+	<option value="Under 18">Under 18</option>
+<option value="18-21">18-21</option>
+<option value="21-25">21-25</option>
+<option value="25-30">25-30</option>
+<option value="31-40">31-40</option>
+<option value="41+">41+</option>
+
+	</select>
+</div>
+<div class="mc-field-group size1of2">
+	<label for="mce-MMERGE4">Years of experience </label>
+	<input type="number" name="MMERGE4" class="" value="" id="mce-MMERGE4">
+</div>
+<div class="mc-field-group">
+	<label for="mce-MMERGE2">Profession </label>
+	<input type="text" value="" name="MMERGE2" class="" id="mce-MMERGE2">
+</div>
+<div class="mc-field-group">
+	<label for="mce-MMERGE6">Services you would look to offer?  <span class="asterisk">*</span>
+</label>
+	<input type="text" value="" name="MMERGE6" class="required" id="mce-MMERGE6">
+</div>
+<div class="mc-field-group">
+	<label for="mce-MMERGE5">Any features you would like to see in the App? </label>
+	<input type="text" value="" name="MMERGE5" class="" id="mce-MMERGE5">
+</div>
+	<div id="mce-responses" class="clear foot">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ba5b659e4a412fca9e0968e24_740a957c3c" tabindex="-1" value=""></div>
+        <div class="optionalParent">
+            <div class="clear foot">
+                <input type="submit" value="Register interest!" name="subscribe" id="mc-embedded-subscribe" class="button">
+                <p class="brandingLogo"><a href="http://eepurl.com/hU3aTT" title="Mailchimp - email marketing made easy and fun"><img src="https://eep.io/mc-cdn-images/template_images/branding_logo_text_dark_dtp.svg"></a></p>
+            </div>
+        </div>
+    </div>
+</form>
+</div>
+<!--End mc_embed_signup-->
+
+@code {
+    
+}

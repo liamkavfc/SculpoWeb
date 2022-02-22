@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1o66iUks5vrzf16F3pRaQccuN/1kmMfIdkJSSKBMAGg=",
+  "Hash": "gQWgyI84e1ijnQJkSt3a+3ukYcsAIp5IRtnMahTHSqs=",
   "Source": "SculpoWeb",
   "BasePath": "/",
   "Mode": "Root",
@@ -7140,12 +7140,12 @@
       "OriginalItemSpec": "wwwroot/images/google-play-badge.png"
     },
     {
-      "Identity": "/Volumes/LiamKenny/LK Website Development/SculpoWeb/SculpoWeb/wwwroot/images/headerlogo.JPG",
+      "Identity": "/Volumes/LiamKenny/LK Website Development/SculpoWeb/SculpoWeb/wwwroot/images/headerlogo.jpg",
       "SourceId": "SculpoWeb",
       "SourceType": "Discovered",
       "ContentRoot": "/Volumes/LiamKenny/LK Website Development/SculpoWeb/SculpoWeb/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "images/headerlogo.JPG",
+      "RelativePath": "images/headerlogo.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7154,7 +7154,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/headerlogo.JPG"
+      "OriginalItemSpec": "wwwroot/images/headerlogo.jpg"
     },
     {
       "Identity": "/Volumes/LiamKenny/LK Website Development/SculpoWeb/SculpoWeb/wwwroot/images/logo.JPG",
